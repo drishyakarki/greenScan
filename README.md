@@ -4,9 +4,9 @@ In this plant disease detection I, have covered the following topics
 ## Introduction
 In this project I have achieved the following objectives:
 - Understanding Pytorch Tensor
-- Loading Datasets and DataLoaders in Pytorch
-- Using Transforms of Pytorch and visualisation
-- Creating a model and building
+- Created custom Datasets and DataLoaders in Pytorch
+- Used Transforms of Pytorch and visualisation
+- Created a model and build it (used ResNet as base model)
 - Understanding the automatic differentiation
 - Optimizing model parameters
 - Saving and loading the model
